@@ -6,14 +6,7 @@
 </head>
 <body style="margin:0; background:#000;">
     <div id="game" style="width:100%;height:100vh;"></div>
-    <script>
-        EJS_player = "#game";
-        EJS_core = "gba"; // Set the core for Game Boy Advance
-        EJS_color = "#000000"; // Background color
-        EJS_startOnLoaded = true; // Start the emulator on load
-        EJS_pathtodata = "data/"; // Data path for emulator files
-        EJS_gameUrl = "ts/omega-ruby-v2.4.zip"; // Specify the ROM file
-    </script>
-    <script src="data/loader.js"></script> <!-- Load the emulator scripts -->
-</body>
-</html>
+    <p>Click the image to play a game!</p>
+    <iframe src="https://wasmboy.github.io/wasmboy/?rom-url=https://raw.githubusercontent.com/torch2424/wasmboy/master/roms/Super%20Mario%20Advance%204.gba" width="640" height="480"></iframe>
+  </body>
+  </html>
