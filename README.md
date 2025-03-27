@@ -1,4 +1,5 @@
 ADD THIS TO EVERY HTML PAGE:
+(GO TO THE EDIT FUNCTION OF THIS README TO COPY THE CODE)
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-T2XPNK3JR3"></script>
