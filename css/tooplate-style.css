@@ -220,5 +220,5 @@ address { font-style: normal; }
 .tm-bgcolor-3 { background-color: #8338EC; }
 .tm-bgcolor-4 { background-color: #000000; }
 .tm-border-rounded-150 { border-radius: 150px; }
-.tm-border-rounded-20 { border-radius: 20px; }
-.tm-border-rounded-10 { border-radius: 10px; }
+.tm-border-rounded-80 { border-radius: 80px; }
+.tm-border-rounded-30 { border-radius: 30px; }
