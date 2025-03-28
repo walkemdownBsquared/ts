@@ -46,6 +46,9 @@ h1, h2, p, i, address, .tm-text-white { color: white; }
 .tm-site-header-2 { 
     height: 100px;
 }
+.tm-site-header-3 { 
+    height: 350px;
+}
 
 .tm-flex-center {
     display: flex;
