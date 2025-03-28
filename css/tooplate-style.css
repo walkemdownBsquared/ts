@@ -46,18 +46,17 @@ h1, h2, p, i, address, .tm-text-white { color: white; }
 .tm-site-header-2 { 
     height: 100px;
     width: 45%;
-    margin-right: 80px; 
 }
 
 .tm-flex-center {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
     justify-content: center;
 }
 .tm-flex-center-2 {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
     justify-content: center;
 }
