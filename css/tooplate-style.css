@@ -1,10 +1,4 @@
-/*
 
-Tooplate 2122 Nano Folio
-
-https://www.tooplate.com/view/2122-nano-folio
-
-*/
 
 html { overflow-x: hidden; }
 
@@ -63,7 +57,7 @@ h1, h2, p, i, address, .tm-text-white { color: white; }
 }
 .tm-flex-center-2 {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
 }
