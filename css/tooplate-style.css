@@ -32,8 +32,6 @@ h1, h2, p, i, address, .tm-text-white { color: white; }
 }
 
 .tm-container-fluid {
-    width: 100%;
-    max-width: 970px;
     box-sizing: border-box;
     margin: 0 auto;
     padding: 60px 15px;
@@ -41,11 +39,14 @@ h1, h2, p, i, address, .tm-text-white { color: white; }
 
 
 .tm-site-header-1 { 
+    width: 100%;
+    max-width: 970px;
     height: 200px; }
 
 .tm-site-header-2 { 
+    width: 100%;
+    max-width: 440px;
     height: 100px;
-    width: 45%;
 }
 
 .tm-flex-center {
