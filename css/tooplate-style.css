@@ -49,8 +49,7 @@ h1, h2, p, i, address, .tm-text-white { color: white; }
 }
 
 .tm-flex-center {
-    display: flex;
-    flex-wrap: row;
+    display: grid;
     align-items: center;
     justify-content: center;
 }
